@@ -1,0 +1,33 @@
+name: Sync images
+
+on:
+  pull_request:
+  push:
+    branches:
+      - main
+
+permissions:
+  contents: read
+
+jobs:
+  sync:
+    name: GitHub Actions Test
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        id: checkout
+        uses: actions/checkout@v4
+
+      - name: Test Local Action
+        id: test-action
+        uses: warjiang/setup-skopeo@6b79a47e24a2dab2b070cf0d856a235e601072d7
+        # with:
+        #   milliseconds: 2000
+      - name: Test Cli
+        run: |
+          skopeo --version
+          skopeo copy --dest-creds ${{ secrets.DEST_REGISTRY_USER }}:${{ secrets.DEST_REGISTRY_PASSWORD }}  docker://alpine:3.19 docker://${{ secrets.DEST_REGISTRY }}/alpine:3.19
+      # - name: Print Output
+      #   id: output
+      #   run: echo "${{ steps.test-action.outputs.time }}"
