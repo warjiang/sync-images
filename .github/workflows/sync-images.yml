@@ -1,0 +1,44 @@
+name: Sync images
+
+on:
+  pull_request:
+  push:
+    branches:
+      - main
+
+permissions:
+  contents: read
+
+jobs:
+  sync:
+    name: GitHub Actions Test
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        id: checkout
+        uses: actions/checkout@v4
+
+      - name: 'Set up skopeo'
+        uses: warjiang/setup-skopeo@latest
+        with:
+          version: latest
+
+      - name: 'Sync images'
+        run: |
+          skopeo --version
+          cd `dirname ${BASH_SOURCE[0]}`
+          SHELL_FOLDER=$(pwd)
+          images=$(cat $SHELL_FOLDER/images.list | grep -v '^\s*$' | grep -v '^#')
+
+
+          for line in $images; do
+            echo "start sync $line"
+            origin_image=$(echo $line | awk -F '=>' '{print $1}')
+            target_image=$(echo $line | awk -F '=>' '{print $2}')
+            skopeo copy --dest-creds \
+                  ${{ secrets.DEST_REGISTRY_USER }}:${{ secrets.DEST_REGISTRY_PASSWORD }} \
+                  docker://${origin_image} \
+                  docker://${{ secrets.DEST_REGISTRY }}/${target_image}
+            echo "sync $line done"
+        done
