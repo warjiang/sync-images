@@ -20,7 +20,7 @@ jobs:
         uses: actions/checkout@v4
 
       - name: 'Set up skopeo'
-        uses: warjiang/setup-skopeo@latest
+        uses: warjiang/setup-skopeo@v0.1
         with:
           version: latest
 
