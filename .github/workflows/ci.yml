@@ -21,7 +21,7 @@ jobs:
 
       - name: Test Local Action
         id: test-action
-        uses: warjiang/setup-skopeo@6b79a47e24a2dab2b070cf0d856a235e601072d7
+        uses: warjiang/setup-skopeo@57142e8c999e67c022a3bd03f7bc69df5f3694d8
         # with:
         #   milliseconds: 2000
       - name: Test Cli
