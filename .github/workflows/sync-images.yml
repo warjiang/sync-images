@@ -27,7 +27,6 @@ jobs:
       - name: 'Sync images'
         run: |
           skopeo --version
-          cd `dirname ${BASH_SOURCE[0]}`
           SHELL_FOLDER=$(pwd)
           images=$(cat $SHELL_FOLDER/images.list | grep -v '^\s*$' | grep -v '^#')
 
