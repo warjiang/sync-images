@@ -2,4 +2,5 @@
 #mysql:8.0.32=>mysql:8.0.32
 #semitechnologies/weaviate:1.23.0=>semitechnologies/weaviate:1.23.0
 #redis:6-alpine=>redis:6-alpine
-warjiang/doc-solver:canary=>ai-hermes/doc-solver:canary
+#warjiang/doc-solver:canary=>ai-hermes/doc-solver:canary
+node:18.19.0-buster=>node:18.19.0-buster
