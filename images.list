@@ -1,1 +1,4 @@
-alpine:3.19=>alpine:3.19
+#alpine:3.19=>alpine:3.19
+mysql:8.0.32=>mysql:8.0.32
+semitechnologies/weaviate:1.23.0=>semitechnologies/weaviate:1.23.0
+redis:6-alpine=>redis:6-alpine
