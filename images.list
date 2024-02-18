@@ -4,4 +4,14 @@
 #redis:6-alpine=>redis:6-alpine
 #warjiang/doc-solver:canary=>ai-hermes/doc-solver:canary
 #node:18.19.0-buster=>node:18.19.0-buster
-golang:1.20.0=>golang:1.20.0
+#golang:1.20.0=>golang:1.20.0
+bitnami/kubectl:latest=>bitnami/kubectl:latest
+cfssl/cfssl:latest=>cfssl/cfssl:latest
+karmada/karmada-aggregated-apiserver:v1.8.0=>karmada/karmada-aggregated-apiserver:v1.8.0
+kube-apiserver:v1.25.4=>kube-apiserver:v1.25.4
+karmada-controller-manager:v1.8.0=>karmada-controller-manager:v1.8.0
+karmada-metrics-adapter:v1.8.0=>karmada-metrics-adapter:v1.8.0
+karmada-scheduler:v1.8.0=>karmada-scheduler:v1.8.0
+karmada-webhook:v1.8.0=>karmada-webhook:v1.8.0
+#registry.k8s.io/kube-controller-manager:v1.25.4
+#registry.k8s.io/etcd:3.5.9-0
