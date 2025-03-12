@@ -12,8 +12,8 @@ permissions:
 jobs:
   sync:
     name: Sync images
-    runs-on: ubuntu-latest
-
+    # runs-on: ubuntu-latest
+    runs-on: hongkong
     steps:
       - name: Checkout
         id: checkout
