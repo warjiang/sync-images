@@ -28,7 +28,9 @@ jobs:
         run: |
           skopeo --version
           SHELL_FOLDER=$(pwd)
+          set +e
           images=$(cat $SHELL_FOLDER/images.list | grep -v '^\s*$' | grep -v '^#')
+          set -e
           for line in $images; do
             echo "Start sync $line"
             echo "Sync $line done"
