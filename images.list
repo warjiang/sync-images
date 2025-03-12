@@ -16,4 +16,4 @@
 #registry.k8s.io/etcd:3.5.9-0=>etcd:3.5.9-0
 #registry.k8s.io/kube-apiserver:v1.25.4=>kube-apiserver:v1.25.4
 #nvidia/cuda:11.0.3-base=>nvidia/cuda:11.0.3-base
-#lmsysorg/sglang:v0.4.3.post4-cu125=>lmsysorg/sglang:v0.4.3.post4-cu125
+#lmsysorg/sglang:v0.4.3.post4-cu125=>lmsysorg/sglang:v0.4.3.post4-cu125x
