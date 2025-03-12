@@ -18,5 +18,3 @@
 #nvidia/cuda:11.0.3-base=>nvidia/cuda:11.0.3-base
 #lmsysorg/sglang:v0.4.3.post4-cu125=>lmsysorg/sglang:v0.4.3.post4-cu125
 #nginx/nginx-ingress:4.0-alpine=>nginx/nginx-ingress:4.0-alpine
-#
-nginx/nginx-ingress:4.0.1-ubi=>nginx/nginx-ingress:4.0.1-ubi
