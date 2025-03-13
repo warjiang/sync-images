@@ -20,4 +20,5 @@
 #nginx/nginx-ingress:4.0-alpine=>nginx/nginx-ingress:4.0-alpine
 #nginx/nginx-ingress:4.0.1-ubi=>nginx/nginx-ingress:4.0-alpine
 #nginx/nginx-ingress:4.0.1-20250309-ubi=>nginx/nginx-ingress:4.0.1-20250309-ubi
-nginx/nginx-ingress:4.0=>nginx/nginx-ingress:4.0
+#nginx/nginx-ingress:4.0=>nginx/nginx-ingress:4.0
+lmsysorg/sglang:latest=>lmsysorg/sglang:latest
