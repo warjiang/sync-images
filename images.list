@@ -22,4 +22,5 @@
 #nginx/nginx-ingress:4.0.1-20250309-ubi=>nginx/nginx-ingress:4.0.1-20250309-ubi
 #nginx/nginx-ingress:4.0=>nginx/nginx-ingress:4.0
 #lmsysorg/sglang:latest=>lmsysorg/sglang:latest
-karmada/karmada-dashboard-api:v0.1.0=>karmada/karmada-dashboard-api:v0.1.0
+#karmada/karmada-dashboard-api:v0.1.0=>karmada/karmada-dashboard-api:v0.1.0
+karmada/karmada-dashboard-web:v0.1.0=>karmada/karmada-dashboard-web:v0.1.0
