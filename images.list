@@ -27,4 +27,7 @@
 #quay.io/minio/minio:RELEASE.2025-03-12T18-04-18Z=>minio/minio:RELEASE.2025-03-12T18-04-18Z
 #golang:alpine=>golang:alpine
 #alpine:latest=>alpine:latest
-datacore/alpine-glibc:2.31=>datacore/alpine-glibc:2.31
+#datacore/alpine-glibc:2.31=>datacore/alpine-glibc:2.31
+ubuntu:20.04=>ubuntu:20.04
+ubuntu:22.04=>ubuntu:22.04
+ubuntu:24.04=>ubuntu:24.04
