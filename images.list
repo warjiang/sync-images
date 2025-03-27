@@ -38,3 +38,7 @@
 #nvidia/cuda:12.8.1-devel-ubuntu22.04=>nvidia/cuda:12.8.1-devel-ubuntu22.04
 #nvidia/cuda:12.8.1-devel-ubuntu24.04=>nvidia/cuda:12.8.1-devel-ubuntu24.04
 kindest/node:v1.29.2=>kindest/node:v1.29.2
+langgenius/dify-sandbox:0.2.10=>langgenius/dify-sandbox:0.2.10
+ubuntu/squid:latest=>ubuntu/squid:latest
+semitechnologies/weaviate:1.19.0=>semitechnologies/weaviate:1.19.0
+postgres:15-alpine=>postgres:15-alpine
