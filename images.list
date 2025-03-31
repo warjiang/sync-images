@@ -42,5 +42,6 @@
 #ubuntu/squid:latest=>ubuntu/squid:latest
 #semitechnologies/weaviate:1.19.0=>semitechnologies/weaviate:1.19.0
 #postgres:15-alpine=>postgres:15-alpine
-warjiang/dify-api:0.15.2-self-hosted=>warjiang/dify-api:0.15.2-self-hosted
-warjiang/dify-web:0.15.2-self-hosted=>warjiang/dify-web:0.15.2-self-hosted
+#warjiang/dify-api:0.15.2-self-hosted=>warjiang/dify-api:0.15.2-self-hosted
+#warjiang/dify-web:0.15.2-self-hosted=>warjiang/dify-web:0.15.2-self-hosted
+ghcr.io/berriai/litellm:main-latest=>berriai/litellm:main-latest
