@@ -44,5 +44,5 @@
 #postgres:15-alpine=>postgres:15-alpine
 #warjiang/dify-api:0.15.2-self-hosted=>warjiang/dify-api:0.15.2-self-hosted
 #warjiang/dify-web:0.15.2-self-hosted=>warjiang/dify-web:0.15.2-self-hosted
-#ghcr.io/berriai/litellm:main-latest=>berriai/litellm:main-latest[todo]
-ghcr.io/headlamp-k8s/headlamp:latest=>headlamp-k8s/headlamp:latest
+ghcr.io/berriai/litellm:main-latest=>berriai/litellm:main-latest
+#ghcr.io/headlamp-k8s/headlamp:latest=>headlamp-k8s/headlamp:latest
