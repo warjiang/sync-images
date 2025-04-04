@@ -16,6 +16,7 @@ jobs:
     steps:
       - name: 'Sync images'
         run: |
+          timestamp=$(date +%s)
           curl -X 'POST' \
             'https://api.cnb.cool/spotty/sync-images/-/build/start' \
             -H 'accept: application/json' \
@@ -23,5 +24,6 @@ jobs:
             -H 'Content-Type: application/json' \
             -d '{
             "branch": "main",
-            "event": "api_trigger_by_cdm"
+            "event": "api_trigger_by_cdm",
+            "env":{"build_time":"${timestamp}"}
           }'
