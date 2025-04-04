@@ -1,0 +1,27 @@
+name: Sync images
+
+on:
+  pull_request:
+  push:
+    branches:
+      - main
+
+permissions:
+  contents: read
+
+jobs:
+  sync:
+    name: Sync images
+    runs-on: ubuntu-latest
+    steps:
+      - name: 'Sync images'
+        run: |
+          curl -X 'POST' \
+            'https://api.cnb.cool/spotty/sync-images/-/build/start' \
+            -H 'accept: application/json' \
+            -H "Authorization: Bearer ${CNB_TOKEN}" \
+            -H 'Content-Type: application/json' \
+            -d '{
+            "branch": "main",
+            "event": "api_trigger_by_cdm"
+          }'
