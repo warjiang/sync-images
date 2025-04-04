@@ -19,7 +19,7 @@ jobs:
           curl -X 'POST' \
             'https://api.cnb.cool/spotty/sync-images/-/build/start' \
             -H 'accept: application/json' \
-            -H "Authorization: Bearer ${CNB_TOKEN}" \
+            -H "Authorization: Bearer ${{ secrets.CNB_TOKEN }}" \
             -H 'Content-Type: application/json' \
             -d '{
             "branch": "main",
