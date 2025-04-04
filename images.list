@@ -49,4 +49,5 @@
 #argoprojlabs/argocd-image-updater:v0.11.2=>argoprojlabs/argocd-image-updater:v0.11.2
 #argoprojlabs/argocd-image-updater:v0.11.3=>argoprojlabs/argocd-image-updater:v0.11.3
 #argoprojlabs/argocd-image-updater:v0.11.1=>argoprojlabs/argocd-image-updater:v0.11.1
-argoprojlabs/argocd-image-updater:v0.10.3=>argoprojlabs/argocd-image-updater:v0.10.3
+#argoprojlabs/argocd-image-updater:v0.10.3=>argoprojlabs/argocd-image-updater:v0.10.3
+argoprojlabs/argocd-image-updater:v0.10.2=>argoprojlabs/argocd-image-updater:v0.10.2
