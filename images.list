@@ -68,7 +68,7 @@
 #busybox=>busybox
 #redis:alpine=>redis:alpine
 #postgres:9.4=>postgres:9.4
-#postgres:14.2=>postgres:14.2[x]
+postgres:14.2=>postgres:14.2
 #ingress-nginx/controller=>ingress-nginx/controller[x]
 #nginx:latest=>nginx:latest
 #nginx:1.14.2=>nginx:1.14.2
@@ -78,7 +78,7 @@
 #jenkins/jenkins:lts=>jenkins/jenkins:lts
 #lemonldapng/lemonldap-ng-controller:0.2.0=>lemonldapng/lemonldap-ng-controller:0.2.0
 #curlimages/curl=>curlimages/curl
-yokogawa/siege=>yokogawa/siege
+#yokogawa/siege=>yokogawa/siege[xx]
 #jitesoft/kubectl:v1.28=>jitesoft/kubectl:v1.28
 #alpine:latest=>alpine:latest
 #alpine/git=>alpine/git
