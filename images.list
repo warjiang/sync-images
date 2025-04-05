@@ -104,9 +104,9 @@
 #registry.k8s.io/defaultbackend-amd64:1.5=>defaultbackend-amd64:1.5
 #registry.access.redhat.com/ubi8/ubi-minimal:8.2=>ubi8/ubi-minimal:8.2
 #sonarsource/sonar-scanner-cli@sha256:e028b6fd811f0184a3ff7f223a66908c3c359fa559c97fa2ee87042c2b540415=>sonarsource/sonar-scanner-cli@sha256:e028b6fd811f0184a3ff7f223a66908c3c359fa559c97fa2ee87042c2b540415
-library/bash:5.1.4=>library/bash:5.1.4
-ghcr.io/groundnuty/k8s-wait-for:v2.0=>groundnuty/k8s-wait-for:v2.0
-gcr.io/kaniko-project/executor:v1.11.0-debug=>kaniko-project/executor:v1.11.0-debug
-gcr.io/go-containerregistry/crane/debug:latest=>go-containerregistry/crane/debug:latest
-k8s.io/ingress-nginx/opentelemetry:v20230721-3e2062ee5@sha256:13bee3f5223883d3ca62fee7309ad02d22ec00ff0d7033e3e9aca7a9f60fd472=>ingress-nginx/opentelemetry:v20230721-3e2062ee5@sha256:13bee3f5223883d3ca62fee7309ad02d22ec00ff0d7033e3e9aca7a9f60fd472
+#library/bash:5.1.4=>library/bash:5.1.4
+#ghcr.io/groundnuty/k8s-wait-for:v2.0=>groundnuty/k8s-wait-for:v2.0
+#gcr.io/kaniko-project/executor:v1.11.0-debug=>kaniko-project/executor:v1.11.0-debug
+#gcr.io/go-containerregistry/crane/debug:latest=>go-containerregistry/crane/debug:latest
+k8s.io/ingress-nginx/opentelemetry:v20230721-3e2062ee5=>ingress-nginx/opentelemetry:v20230721-3e2062ee5
 
