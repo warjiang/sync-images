@@ -52,4 +52,15 @@
 #argoprojlabs/argocd-image-updater:v0.10.3=>argoprojlabs/argocd-image-updater:v0.10.3
 #argoprojlabs/argocd-image-updater:v0.10.2=>argoprojlabs/argocd-image-updater:v0.10.2
 #argoprojlabs/argocd-image-updater:v0.10.1=>argoprojlabs/argocd-image-updater:v0.10.1
-jenkins/jenkins:2.504=>jenkins/jenkins:2.504
+#jenkins/jenkins:2.504=>jenkins/jenkins:2.504
+lyzhang1999/result:env=>lyzhang1999/result:env
+lyzhang1999/vote:env=>lyzhang1999/vote:env
+lyzhang1999/worker:env=>lyzhang1999/worker:env
+lyzhang1999/result:remove-retry=>lyzhang1999/result:remove-retry
+lyzhang1999/week9-prometheus-app:custom-bucket=>lyzhang1999/week9-prometheus-app:custom-bucket
+lyzhang1999/opentelemetry-python=>lyzhang1999/opentelemetry-python
+lyzhang1999/opentelemetry-python-raw=>lyzhang1999/opentelemetry-python-raw
+lyzhang1999/webhook-admission-example=>lyzhang1999/webhook-admission-example
+lyzhang1999/blue-green:v1=>lyzhang1999/blue-green:v1
+lyzhang1999/blue-green:v2=>lyzhang1999/blue-green:v2
+
