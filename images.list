@@ -69,7 +69,7 @@
 #redis:alpine=>redis:alpine
 #postgres:9.4=>postgres:9.4
 #postgres:14.2=>postgres:14.2
-registry.k8s.io/ingress-nginx/controller=>ingress-nginx/controller
+registry.k8s.io/ingress-nginx/controller:v1.8.2=>ingress-nginx/controller:v1.8.2
 #nginx:latest=>nginx:latest
 #nginx:1.14.2=>nginx:1.14.2
 #nginx:1.17.6=>nginx:1.17.6
