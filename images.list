@@ -78,7 +78,7 @@
 #jenkins/jenkins:lts=>jenkins/jenkins:lts
 #lemonldapng/lemonldap-ng-controller:0.2.0=>lemonldapng/lemonldap-ng-controller:0.2.0
 #curlimages/curl=>curlimages/curl
-#yokogawa/siege=>yokogawa/siege[x]
+yokogawa/siege=>yokogawa/siege
 #jitesoft/kubectl:v1.28=>jitesoft/kubectl:v1.28
 #alpine:latest=>alpine:latest
 #alpine/git=>alpine/git
@@ -97,7 +97,7 @@
 #quay.io/thanos/thanos:v0.31.0=>thanos/thanos:v0.31.0
 #quay.io/thanos/thanos:v0.30.2=>thanos/thanos:v0.30.2
 #quay.io/oauth2-proxy/oauth2-proxy:v7.3.0=>oauth2-proxy/oauth2-proxy:v7.3.0
-dockersamples/examplevotingapp_vote=>dockersamples/examplevotingapp_vote
-dockersamples/examplevotingapp_worker=>dockersamples/examplevotingapp_worker
-dockersamples/examplevotingapp_result=>dockersamples/examplevotingapp_result
+#dockersamples/examplevotingapp_vote=>dockersamples/examplevotingapp_vote
+#dockersamples/examplevotingapp_worker=>dockersamples/examplevotingapp_worker
+#dockersamples/examplevotingapp_result=>dockersamples/examplevotingapp_result
 
