@@ -100,10 +100,10 @@
 #dockersamples/examplevotingapp_vote=>dockersamples/examplevotingapp_vote
 #dockersamples/examplevotingapp_worker=>dockersamples/examplevotingapp_worker
 #dockersamples/examplevotingapp_result=>dockersamples/examplevotingapp_result
-registry.k8s.io/ingress-nginx/kube-webhook-certgen:v20230407=>ingress-nginx/kube-webhook-certgen:v20230407
-registry.k8s.io/defaultbackend-amd64:1.5=>defaultbackend-amd64:1.5
-registry.access.redhat.com/ubi8/ubi-minimal:8.2=>ubi8/ubi-minimal:8.2
-sonarsource/sonar-scanner-cli@sha256:e028b6fd811f0184a3ff7f223a66908c3c359fa559c97fa2ee87042c2b540415=>sonarsource/sonar-scanner-cli@sha256:e028b6fd811f0184a3ff7f223a66908c3c359fa559c97fa2ee87042c2b540415
+#registry.k8s.io/ingress-nginx/kube-webhook-certgen:v20230407=>ingress-nginx/kube-webhook-certgen:v20230407
+#registry.k8s.io/defaultbackend-amd64:1.5=>defaultbackend-amd64:1.5
+#registry.access.redhat.com/ubi8/ubi-minimal:8.2=>ubi8/ubi-minimal:8.2
+#sonarsource/sonar-scanner-cli@sha256:e028b6fd811f0184a3ff7f223a66908c3c359fa559c97fa2ee87042c2b540415=>sonarsource/sonar-scanner-cli@sha256:e028b6fd811f0184a3ff7f223a66908c3c359fa559c97fa2ee87042c2b540415
 library/bash:5.1.4@sha256:c523c636b722339f41b6a431b44588ab2f762c5de5ec3bd7964420ff982fb1d9=>library/bash:5.1.4@sha256:c523c636b722339f41b6a431b44588ab2f762c5de5ec3bd7964420ff982fb1d9
 ghcr.io/groundnuty/k8s-wait-for:v2.0=>groundnuty/k8s-wait-for:v2.0
 gcr.io/kaniko-project/executor:v1.11.0-debug=>kaniko-project/executor:v1.11.0-debug
