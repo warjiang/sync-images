@@ -108,5 +108,5 @@
 #ghcr.io/groundnuty/k8s-wait-for:v2.0=>groundnuty/k8s-wait-for:v2.0
 #gcr.io/kaniko-project/executor:v1.11.0-debug=>kaniko-project/executor:v1.11.0-debug
 #gcr.io/go-containerregistry/crane/debug:latest=>go-containerregistry/crane/debug:latest
-k8s.io/ingress-nginx/opentelemetry:v20230721-3e2062ee5=>ingress-nginx/opentelemetry:v20230721-3e2062ee5
+registry.k8s.io/ingress-nginx/opentelemetry:v20230721-3e2062ee5=>ingress-nginx/opentelemetry:v20230721-3e2062ee5
 
