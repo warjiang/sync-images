@@ -78,7 +78,7 @@
 #jenkins/jenkins:lts=>jenkins/jenkins:lts
 #lemonldapng/lemonldap-ng-controller:0.2.0=>lemonldapng/lemonldap-ng-controller:0.2.0
 #curlimages/curl=>curlimages/curl
-yokogawa/siege:latest=>yokogawa/siege:latest
+#yokogawa/siege:latest=>yokogawa/siege:latest
 #jitesoft/kubectl:v1.28=>jitesoft/kubectl:v1.28
 #alpine:latest=>alpine:latest
 #alpine/git=>alpine/git
@@ -109,4 +109,6 @@ yokogawa/siege:latest=>yokogawa/siege:latest
 #gcr.io/kaniko-project/executor:v1.11.0-debug=>kaniko-project/executor:v1.11.0-debug
 #gcr.io/go-containerregistry/crane/debug:latest=>go-containerregistry/crane/debug:latest
 #registry.k8s.io/ingress-nginx/opentelemetry:v20230721-3e2062ee5=>ingress-nginx/opentelemetry:v20230721-3e2062ee5
+python:3=>python:3
+node:8.11.2=>node:8.11.2
 
