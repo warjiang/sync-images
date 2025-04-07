@@ -112,5 +112,6 @@
 #python:3=>python:3
 #node:8.11.2=>node:8.11.2
 #registry.k8s.io/ingress-nginx/controller:v1.12.1=>ingress-nginx/controller:v1.12.1
-registry.k8s.io/ingress-nginx/kube-webhook-certgen:v1.4.4=>ingress-nginx/kube-webhook-certgen:v1.4.4
+#registry.k8s.io/ingress-nginx/kube-webhook-certgen:v1.4.4=>ingress-nginx/kube-webhook-certgen:v1.4.4
+python:3.7.17=>python:3.7.17
 
