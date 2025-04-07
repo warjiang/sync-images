@@ -111,6 +111,6 @@
 #registry.k8s.io/ingress-nginx/opentelemetry:v20230721-3e2062ee5=>ingress-nginx/opentelemetry:v20230721-3e2062ee5
 #python:3=>python:3
 #node:8.11.2=>node:8.11.2
-registry.k8s.io/ingress-nginx/controller:v1.12.1=>ingress-nginx/controller:v1.12.1
+#registry.k8s.io/ingress-nginx/controller:v1.12.1=>ingress-nginx/controller:v1.12.1
 registry.k8s.io/ingress-nginx/kube-webhook-certgen:v1.4.4=>ingress-nginx/kube-webhook-certgen:v1.4.4
 
