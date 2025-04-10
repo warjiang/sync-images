@@ -113,5 +113,7 @@
 #node:8.11.2=>node:8.11.2
 #registry.k8s.io/ingress-nginx/controller:v1.12.1=>ingress-nginx/controller:v1.12.1
 #registry.k8s.io/ingress-nginx/kube-webhook-certgen:v1.4.4=>ingress-nginx/kube-webhook-certgen:v1.4.4
-python:3.7.17=>python:3.7.17
+#python:3.7.17=>python:3.7.17
+apache/eventmesh:v1.11.0=>apache/eventmesh:v1.11.0
+apache/rocketmq:4.9.4=>apache/rocketmq:4.9.4
 
