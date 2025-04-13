@@ -118,10 +118,13 @@
 #apache/rocketmq:4.9.4=>apache/rocketmq:4.9.4
 #apacherocketmq/rocketmq-dashboard:1.0.0=>apacherocketmq/rocketmq-dashboard:1.0.0
 #apache/rocketmq:5.3.2=>apache/rocketmq:5.3.2
-jenkins/jenkins:jdk21=>jenkins/jenkins:jdk21
-kiwigrid/k8s-sidecar:1.30.3=>kiwigrid/k8s-sidecar:1.30.3
-twalter/smee-client:1.0.2=>twalter/smee-client:1.0.2
-jenkins/inbound-agent:3301.v4363ddcca_4e7-3=>jenkins/inbound-agent:3301.v4363ddcca_4e7-3
-bats/bats:1.11.1=>bats/bats:1.11.1
-
+#jenkins/jenkins:jdk21=>jenkins/jenkins:jdk21
+#kiwigrid/k8s-sidecar:1.30.3=>kiwigrid/k8s-sidecar:1.30.3
+#twalter/smee-client:1.0.2=>twalter/smee-client:1.0.2
+#jenkins/inbound-agent:3301.v4363ddcca_4e7-3=>jenkins/inbound-agent:3301.v4363ddcca_4e7-3
+#bats/bats:1.11.1=>bats/bats:1.11.1
+ghcr.io/tektoncd/pipeline/controller-10a3e32792f33651396d02b6855a6e36:v0.70.0=>tektoncd/pipeline/controller-10a3e32792f33651396d02b6855a6e36:v0.70.0
+ghcr.io/tektoncd/pipeline/events-a9042f7efb0cbade2a868a1ee5ddd52c:v0.70.0=>tektoncd/pipeline/events-a9042f7efb0cbade2a868a1ee5ddd52c:v0.70.0
+ghcr.io/tektoncd/pipeline/resolvers-ff86b24f130c42b88983d3c13993056d:v0.70.0=>tektoncd/pipeline/resolvers-ff86b24f130c42b88983d3c13993056d:v0.70.0
+ghcr.io/tektoncd/pipeline/webhook-d4749e605405422fd87700164e31b2d1:v0.70.0=>tektoncd/pipeline/webhook-d4749e605405422fd87700164e31b2d1:v0.70.0
 
