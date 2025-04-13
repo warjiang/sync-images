@@ -117,6 +117,11 @@
 #apache/eventmesh:v1.11.0=>apache/eventmesh:v1.11.0
 #apache/rocketmq:4.9.4=>apache/rocketmq:4.9.4
 #apacherocketmq/rocketmq-dashboard:1.0.0=>apacherocketmq/rocketmq-dashboard:1.0.0
-apache/rocketmq:5.3.2=>apache/rocketmq:5.3.2
+#apache/rocketmq:5.3.2=>apache/rocketmq:5.3.2
+jenkins/jenkins:jdk21=>jenkins/jenkins:jdk21
+kiwigrid/k8s-sidecar:1.30.3=>kiwigrid/k8s-sidecar:1.30.3
+twalter/smee-client:1.0.2=>twalter/smee-client:1.0.2
+jenkins/inbound-agent:3301.v4363ddcca_4e7-3=>jenkins/inbound-agent:3301.v4363ddcca_4e7-3
+bats/bats:1.11.1=>bats/bats:1.11.1
 
 
