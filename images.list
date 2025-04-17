@@ -131,7 +131,7 @@
 #ghcr.io/tektoncd/triggers/controller-f656ca31de179ab913fa76abc255c315:v0.31.0=>tektoncd/triggers/controller-f656ca31de179ab913fa76abc255c315:v0.31.0
 #ghcr.io/tektoncd/triggers/webhook-dd1edc925ee1772a9f76e2c1bc291ef6:v0.31.0=>tektoncd/triggers/webhook-dd1edc925ee1772a9f76e2c1bc291ef6:v0.31.0
 #ghcr.io/tektoncd/triggers/interceptors-3176d6a3f314c3655b30bfd36e421dd5:v0.31.0=>tektoncd/triggers/interceptors-3176d6a3f314c3655b30bfd36e421dd5:v0.31.0
-mysql:8.4.2=>mysql:8.4.2
+#mysql:8.4.2=>mysql:8.4.2
 redis:7.2.4-alpine3.19=>redis:7.2.4-alpine3.19
 clickhouse/clickhouse-server:24.3.6.48-alpine=>clickhouse/clickhouse-server:24.3.6.48-alpine
 bitnami/zookeeper:3.9.2-debian-12-r0=>bitnami/zookeeper:3.9.2-debian-12-r0
