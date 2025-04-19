@@ -141,4 +141,5 @@
 #ghcr.io/comet-ml/opik/opik-python-backend:1.7.7=>comet-ml/opik/opik-python-backend:1.7.7
 #ghcr.io/comet-ml/opik/opik-sandbox-executor-python:1.7.7=>comet-ml/opik/opik-sandbox-executor-python:1.7.7
 #ghcr.io/comet-ml/opik/opik-frontend-comet:1.7.7=>comet-ml/opik/opik-frontend-comet:1.7.7
-ghcr.io/comet-ml/opik/opik-guardrails-backend:1.7.5-1521=>comet-ml/opik/opik-guardrails-backend:1.7.5-1521
+#ghcr.io/comet-ml/opik/opik-guardrails-backend:1.7.5-1521=>comet-ml/opik/opik-guardrails-backend:1.7.5-1521[x]
+cloudflare/cloudflared:latest=>cloudflare/cloudflared:latest
