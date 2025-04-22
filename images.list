@@ -144,4 +144,4 @@
 #ghcr.io/comet-ml/opik/opik-guardrails-backend:1.7.5-1521=>comet-ml/opik/opik-guardrails-backend:1.7.5-1521[x]
 #cloudflare/cloudflared:latest=>cloudflare/cloudflared:latest
 #hashicorp/vault:1.19.2=>hashicorp/vault:1.19.2
-ghcr.io/github/github-mcp-server=>ghcr.io/github/github-mcp-server
+ghcr.io/github/github-mcp-server=>github/github-mcp-server
