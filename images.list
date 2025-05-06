@@ -176,6 +176,9 @@ bitnami/elasticsearch-curator-archived:5.8.4-debian-10-r215=>bitnami/elasticsear
 #bkci/bkci-frontend:v3.2.0=>bkci/bkci-frontend:v3.2.0
 #bkci/bkci-turbo:0.0.18=>bkci/bkci-turbo:0.0.18
 #bkci/bkci-gateway:v3.2.0=>bkci/bkci-gateway:v3.2.0
-rancher/local-path-provisioner:v0.0.31=>rancher/local-path-provisioner:v0.0.31
-
-
+#rancher/local-path-provisioner:v0.0.31=>rancher/local-path-provisioner:v0.0.31
+langwatch/langwatch:latest=>langwatch/langwatch:latest
+langwatch/langwatch_nlp:latest=>langwatch/langwatch_nlp:latest
+langwatch/langevals:latest=>langwatch/langevals:latest
+postgres:16=>postgres:16
+opensearchproject/opensearch:2.17.1=>opensearchproject/opensearch:2.17.1
