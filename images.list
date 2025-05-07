@@ -203,4 +203,4 @@ bitnami/elasticsearch-curator-archived:5.8.4-debian-10-r215=>bitnami/elasticsear
 #registry.cn-shanghai.aliyuncs.com/ss1917/etcd:3.5=>ss1917/etcd:3.5
 #registry.cn-shanghai.aliyuncs.com/ss1917/mysql:8.0=>ss1917/mysql:8.0
 #registry.cn-shanghai.aliyuncs.com/ss1917/redis:6.2=>ss1917/redis:6.2
-registry.cn-shanghai.aliyuncs.com/ss1917codo-flow-task-scheduler:latest=>ss1917codo-flow-task-scheduler:latest
+registry.cn-shanghai.aliyuncs.com/ss1917/codo-flow-task-scheduler:latest=>ss1917/codo-flow-task-scheduler:latest
