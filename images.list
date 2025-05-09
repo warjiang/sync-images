@@ -204,9 +204,10 @@ bitnami/elasticsearch-curator-archived:5.8.4-debian-10-r215=>bitnami/elasticsear
 #registry.cn-shanghai.aliyuncs.com/ss1917/mysql:8.0=>ss1917/mysql:8.0
 #registry.cn-shanghai.aliyuncs.com/ss1917/redis:6.2=>ss1917/redis:6.2
 #registry.cn-shanghai.aliyuncs.com/ss1917/codo-flow-task-scheduler:latest=>ss1917/codo-flow-task-scheduler:latest
-envoyproxy/envoy:dev=>envoyproxy/envoy:dev
-envoyproxy/envoy:contrib-dev=>envoyproxy/envoy:contrib-dev
-envoyproxy/envoy-build-ubuntu:f94a38f62220a2b017878b790b6ea98a0f6c5f9c@sha256:2dd96b6f43c08ccabd5f4747fce5854f5f96af509b32e5cf6493f136e9833649=>envoyproxy/envoy-build-ubuntu:f94a38f62220a2b017878b790b6ea98a0f6c5f9c@sha256:2dd96b6f43c08ccabd5f4747fce5854f5f96af509b32e5cf6493f136e9833649
+#envoyproxy/envoy:dev=>envoyproxy/envoy:dev
+#envoyproxy/envoy:contrib-dev=>envoyproxy/envoy:contrib-dev
+#[x]envoyproxy/envoy-build-ubuntu:f94a38f62220a2b017878b790b6ea98a0f6c5f9c@sha256:2dd96b6f43c08ccabd5f4747fce5854f5f96af509b32e5cf6493f136e9833649=>envoyproxy/envoy-build-ubuntu:f94a38f62220a2b017878b790b6ea98a0f6c5f9c@sha256:2dd96b6f43c08ccabd5f4747fce5854f5f96af509b32e5cf6493f136e9833649
+envoyproxy/envoy-build-ubuntu@sha256:2dd96b6f43c08ccabd5f4747fce5854f5f96af509b32e5cf6493f136e9833649
 rust:1.85.1=>rust:1.85.1
 debian:bookworm-slim=>debian:bookworm-slim
 debian:bookworm-slim@sha256:d365f4920711a9074c4bcd178e8f457ee59250426441ab2a5f8106ed8fe948eb=>debian:bookworm-slim@sha256:d365f4920711a9074c4bcd178e8f457ee59250426441ab2a5f8106ed8fe948eb
