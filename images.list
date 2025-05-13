@@ -211,17 +211,20 @@
 #rust:1.85.1=>rust:1.85.1
 #debian:bookworm-slim=>debian:bookworm-slim
 #debian:bookworm-slim@sha256:d365f4920711a9074c4bcd178e8f457ee59250426441ab2a5f8106ed8fe948eb=>debian:bookworm-slim@sha256:d365f4920711a9074c4bcd178e8f457ee59250426441ab2a5f8106ed8fe948eb
-debian@sha256:d365f4920711a9074c4bcd178e8f457ee59250426441ab2a5f8106ed8fe948eb=>debian@sha256:d365f4920711a9074c4bcd178e8f457ee59250426441ab2a5f8106ed8fe948eb
+#debian@sha256:d365f4920711a9074c4bcd178e8f457ee59250426441ab2a5f8106ed8fe948eb=>debian@sha256:d365f4920711a9074c4bcd178e8f457ee59250426441ab2a5f8106ed8fe948eb
 #golang:1.24.1-bookworm@sha256:fa1a01d362a7b9df68b021d59a124d28cae6d99ebd1a876e3557c4dd092f1b1d=>golang:1.24.1-bookworm@sha256:fa1a01d362a7b9df68b021d59a124d28cae6d99ebd1a876e3557c4dd092f1b1d
-golang:1.24.1-bookworm=>golang:1.24.1-bookworm
+#golang:1.24.1-bookworm=>golang:1.24.1-bookworm
 #jaegertracing/all-in-one:1.67.0@sha256:34e3d18e0f2eeb9abd9bb53d0dc7abaf2a5b1c884fdca575093af3126811a9d3=>jaegertracing/all-in-one:1.67.0@sha256:34e3d18e0f2eeb9abd9bb53d0dc7abaf2a5b1c884fdca575093af3126811a9d3
-jaegertracing/all-in-one:1.67.0=>jaegertracing/all-in-one:1.67.0
+#jaegertracing/all-in-one:1.67.0=>jaegertracing/all-in-one:1.67.0
 #node:23.10-bookworm-slim@sha256:b89d748ea010f4d276c9d45c750fa5f371cef3fcc7486f739f07e5aad1b998a8=>node:23.10-bookworm-slim@sha256:b89d748ea010f4d276c9d45c750fa5f371cef3fcc7486f739f07e5aad1b998a8
-node:23.10-bookworm-slim=>node:23.10-bookworm-slim
+#node:23.10-bookworm-slim=>node:23.10-bookworm-slim
 #postgres:latest@sha256:fe4efc6901dda0d952306fd962643d8022d7bb773ffe13fe8a21551b9276e50c=>postgres:latest@sha256:fe4efc6901dda0d952306fd962643d8022d7bb773ffe13fe8a21551b9276e50c
-postgres@sha256:fe4efc6901dda0d952306fd962643d8022d7bb773ffe13fe8a21551b9276e50c=>postgres@sha256:fe4efc6901dda0d952306fd962643d8022d7bb773ffe13fe8a21551b9276e50c
+#postgres@sha256:fe4efc6901dda0d952306fd962643d8022d7bb773ffe13fe8a21551b9276e50c=>postgres@sha256:fe4efc6901dda0d952306fd962643d8022d7bb773ffe13fe8a21551b9276e50c
 #python:3.11.5-slim-bookworm@sha256:edaf703dce209d774af3ff768fc92b1e3b60261e7602126276f9ceb0e3a96874=>python:3.11.5-slim-bookworm@sha256:edaf703dce209d774af3ff768fc92b1e3b60261e7602126276f9ceb0e3a96874
-python:3.11.5-slim-bookworm=>python:3.11.5-slim-bookworm
-
+#python:3.11.5-slim-bookworm=>python:3.11.5-slim-bookworm
+langgenius/dify-api:1.3.1=>langgenius/dify-api:1.3.1
+langgenius/dify-web:1.3.1=>langgenius/dify-web:1.3.1
+langgenius/dify-sandbox:0.2.11=>langgenius/dify-sandbox:0.2.11
+langgenius/dify-plugin-daemon:0.0.9-local=>langgenius/dify-plugin-daemon:0.0.9-local
 
 
