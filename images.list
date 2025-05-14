@@ -222,9 +222,11 @@
 #postgres@sha256:fe4efc6901dda0d952306fd962643d8022d7bb773ffe13fe8a21551b9276e50c=>postgres@sha256:fe4efc6901dda0d952306fd962643d8022d7bb773ffe13fe8a21551b9276e50c
 #python:3.11.5-slim-bookworm@sha256:edaf703dce209d774af3ff768fc92b1e3b60261e7602126276f9ceb0e3a96874=>python:3.11.5-slim-bookworm@sha256:edaf703dce209d774af3ff768fc92b1e3b60261e7602126276f9ceb0e3a96874
 #python:3.11.5-slim-bookworm=>python:3.11.5-slim-bookworm
-langgenius/dify-api:1.3.1=>langgenius/dify-api:1.3.1
-langgenius/dify-web:1.3.1=>langgenius/dify-web:1.3.1
-langgenius/dify-sandbox:0.2.11=>langgenius/dify-sandbox:0.2.11
-langgenius/dify-plugin-daemon:0.0.9-local=>langgenius/dify-plugin-daemon:0.0.9-local
-
+#langgenius/dify-api:1.3.1=>langgenius/dify-api:1.3.1
+#langgenius/dify-web:1.3.1=>langgenius/dify-web:1.3.1
+#langgenius/dify-sandbox:0.2.11=>langgenius/dify-sandbox:0.2.11
+#langgenius/dify-plugin-daemon:0.0.9-local=>langgenius/dify-plugin-daemon:0.0.9-local
+debian:stable-slim=>debian:stable-slim
+redis:6.2.11=>redis:6.2.11
+bitnami/rabbitmq:3.13.6-debian-12-r1=>bitnami/rabbitmq:3.13.6-debian-12-r1
 
