@@ -229,5 +229,6 @@
 #debian:stable-slim=>debian:stable-slim
 #redis:6.2.11=>redis:6.2.11
 #bitnami/rabbitmq:3.13.6-debian-12-r1=>bitnami/rabbitmq:3.13.6-debian-12-r1
-cloudflare/cloudflared:2025.5.0=>cloudflare/cloudflared:2025.5.0
-cloudflare/cloudflared:latest=>cloudflare/cloudflared:latest
+#cloudflare/cloudflared:2025.5.0=>cloudflare/cloudflared:2025.5.0
+#cloudflare/cloudflared:latest=>cloudflare/cloudflared:latest
+kennethreitz/httpbin:latest=>kennethreitz/httpbin:latest
