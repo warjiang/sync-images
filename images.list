@@ -243,10 +243,11 @@
 #openresty/openresty:bullseye-valgrind=>openresty/openresty:bullseye-valgrind
 #[x]openresty/openresty:bullseye-fat-debug=>openresty/openresty:bullseye-fat-debug
 #[x]openresty/openresty:bullseye-fat-valgrind=>openresty/openresty:bullseye-fat-valgrind
-jumpserver/chen:v4.10.0-ce=>jumpserver/chen:v4.10.0-ce
-jumpserver/core:v4.10.0-ce=>jumpserver/core:v4.10.0-ce
-jumpserver/lion:v4.10.0-ce=>jumpserver/lion:v4.10.0-ce
-jumpserver/web:v4.10.0-ce=>jumpserver/web:v4.10.0-ce
-
-
+#jumpserver/chen:v4.10.0-ce=>jumpserver/chen:v4.10.0-ce
+#jumpserver/core:v4.10.0-ce=>jumpserver/core:v4.10.0-ce
+#jumpserver/lion:v4.10.0-ce=>jumpserver/lion:v4.10.0-ce
+#jumpserver/web:v4.10.0-ce=>jumpserver/web:v4.10.0-ce
+bitnami/os-shell:12-debian-12-r43=>bitnami/os-shell:12-debian-12-r43
+bitnami/postgres-exporter:0.17.1-debian-12-r6=>bitnami/postgres-exporter:0.17.1-debian-12-r6
+bitnami/postgresql:17.4.0-debian-12-r17=>bitnami/postgresql:17.4.0-debian-12-r17
 
