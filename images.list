@@ -240,9 +240,9 @@
 #openresty/openresty:noble=>openresty/openresty:noble	
 #openresty/openresty:jammy=>openresty/openresty:jammy	
 #openresty/openresty:bullseye-debug=>openresty/openresty:bullseye-debug
-openresty/openresty:bullseye-valgrind=>openresty/openresty:bullseye-valgrind
-openresty/openresty:bullseye-fat-debug=>openresty/openresty:bullseye-fat-debug
-openresty/openresty:bullseye-fat-valgrind=>openresty/openresty:bullseye-fat-valgrind
+#openresty/openresty:bullseye-valgrind=>openresty/openresty:bullseye-valgrind
+#[x]openresty/openresty:bullseye-fat-debug=>openresty/openresty:bullseye-fat-debug
+#[x]openresty/openresty:bullseye-fat-valgrind=>openresty/openresty:bullseye-fat-valgrind
 
 
 
