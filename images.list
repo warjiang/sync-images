@@ -247,8 +247,10 @@
 #jumpserver/core:v4.10.0-ce=>jumpserver/core:v4.10.0-ce
 #jumpserver/lion:v4.10.0-ce=>jumpserver/lion:v4.10.0-ce
 #jumpserver/web:v4.10.0-ce=>jumpserver/web:v4.10.0-ce
-jumpserver/koko:v4.10.0-ce=>jumpserver/koko:v4.10.0-ce
+#jumpserver/koko:v4.10.0-ce=>jumpserver/koko:v4.10.0-ce
 #bitnami/os-shell:12-debian-12-r43=>bitnami/os-shell:12-debian-12-r43
 #bitnami/postgres-exporter:0.17.1-debian-12-r6=>bitnami/postgres-exporter:0.17.1-debian-12-r6
 #bitnami/postgresql:17.4.0-debian-12-r17=>bitnami/postgresql:17.4.0-debian-12-r17
+gcr.io/k8s-staging-sig-storage/nfs-subdir-external-provisioner:v4.0.0=>k8s-staging-sig-storage/nfs-subdir-external-provisioner:v4.0.0
+
 
