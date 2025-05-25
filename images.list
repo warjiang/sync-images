@@ -270,7 +270,7 @@
 #quay.io/helmpack/chart-testing:v3.12.0=>helmpack/chart-testing:v3.12.0
 #quay.io/projectquay/golang:1.24=>projectquay/golang:1.24
 #quay.io/sclorg/redis-7-c9s:c9s=>sclorg/redis-7-c9s:c9s
-quay.io/tms/pd-disagg-benchmark:0.0.6=>tms/pd-disagg-benchmark:0.0.6
+#[x]quay.io/tms/pd-disagg-benchmark:0.0.6=>tms/pd-disagg-benchmark:0.0.6
 quay.io/curl/curl:latest=>curl/curl:latest
 ghcr.io/llm-d/llm-d-model-service:0.0.10=>llm-d/llm-d-model-service:0.0.10
 ghcr.io/llm-d/llm-d-inference-scheduler:0.0.4=>llm-d/llm-d-inference-scheduler:0.0.4
