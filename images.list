@@ -280,5 +280,8 @@
 #python:3.10=>python:3.10
 #kindest/node:v1.30.0=>kindest/node:v1.30.0
 #registry.access.redhat.com/ubi8/ubi-minimal:latest=>ubi8/ubi-minimal:latest
+#calciumion/new-api:latest=>calciumion/new-api:latest
 calciumion/new-api:v0.7.3.2=>calciumion/new-api:v0.7.3.2
+mysql:8.2=>mysql:8.2
+redis:latest=>redis:latest
 
