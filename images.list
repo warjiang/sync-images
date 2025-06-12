@@ -281,7 +281,7 @@
 #kindest/node:v1.30.0=>kindest/node:v1.30.0
 #registry.access.redhat.com/ubi8/ubi-minimal:latest=>ubi8/ubi-minimal:latest
 #calciumion/new-api:latest=>calciumion/new-api:latest
-calciumion/new-api:v0.7.3.2=>calciumion/new-api:v0.7.3.2
-mysql:8.2=>mysql:8.2
-redis:latest=>redis:latest
-
+#calciumion/new-api:v0.7.3.2=>calciumion/new-api:v0.7.3.2
+#mysql:8.2=>mysql:8.2
+#redis:latest=>redis:latest
+ghcr.io/huolalatech/page-spy-web:v2.3.1=>huolalatech/page-spy-web:v2.3.1
