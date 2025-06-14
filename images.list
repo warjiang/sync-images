@@ -285,3 +285,4 @@
 #mysql:8.2=>mysql:8.2
 #redis:latest=>redis:latest
 ghcr.io/huolalatech/page-spy-web:v2.3.1=>huolalatech/page-spy-web:v2.3.1
+ghcr.io/huolalatech/page-spy-web:latest=>huolalatech/page-spy-web:latest
