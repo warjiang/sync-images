@@ -287,7 +287,8 @@
 #ghcr.io/huolalatech/page-spy-web:v2.3.1=>huolalatech/page-spy-web:v2.3.1
 #ghcr.io/huolalatech/page-spy-web:latest=>huolalatech/page-spy-web:latest
 #ghcr.io/astral-sh/uv:python3.11-bookworm=>astral-sh/uv:python3.11-bookworm
-ghcr.io/astral-sh/uv:python3.12-bookworm=>astral-sh/uv:python3.12-bookworm
+#ghcr.io/astral-sh/uv:python3.12-bookworm=>astral-sh/uv:python3.12-bookworm
+ghcr.io/astral-sh/uv:python3.13-bookworm=>astral-sh/uv:python3.13-bookworm
 
 
 
