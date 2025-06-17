@@ -289,8 +289,8 @@
 #ghcr.io/astral-sh/uv:python3.11-bookworm=>astral-sh/uv:python3.11-bookworm
 #ghcr.io/astral-sh/uv:python3.12-bookworm=>astral-sh/uv:python3.12-bookworm
 #ghcr.io/astral-sh/uv:python3.13-bookworm=>astral-sh/uv:python3.13-bookworm
-ghcr.io/astral-sh/uv:python3.14-rc-bookworm=>astral-sh/uv:python3.14-rc-bookworm
-
+#ghcr.io/astral-sh/uv:python3.14-rc-bookworm=>astral-sh/uv:python3.14-rc-bookworm
+ghcr.io/warjiang/page-spy-web:on-premises=>warjiang/page-spy-web:on-premises
 
 
 
