@@ -290,7 +290,11 @@
 #ghcr.io/astral-sh/uv:python3.12-bookworm=>astral-sh/uv:python3.12-bookworm
 #ghcr.io/astral-sh/uv:python3.13-bookworm=>astral-sh/uv:python3.13-bookworm
 #ghcr.io/astral-sh/uv:python3.14-rc-bookworm=>astral-sh/uv:python3.14-rc-bookworm
-ghcr.io/warjiang/page-spy-web:on-premises=>warjiang/page-spy-web:on-premises
+#ghcr.io/warjiang/page-spy-web:on-premises=>warjiang/page-spy-web:on-premises
+ghcr.io/m1k1o/neko/chromium:3.0.6=>m1k1o/neko/chromium:3.0.6
+ghcr.io/m1k1o/neko/google-chrome:3.0.6=>m1k1o/neko/google-chrome:3.0.6
+ghcr.io/m1k1o/neko/firefox:3.0.6=>m1k1o/neko/firefox:3.0.6
+
 
 
 
