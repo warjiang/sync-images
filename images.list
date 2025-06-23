@@ -294,6 +294,7 @@
 ghcr.io/m1k1o/neko/chromium:3.0.6=>m1k1o/neko/chromium:3.0.6
 ghcr.io/m1k1o/neko/google-chrome:3.0.6=>m1k1o/neko/google-chrome:3.0.6
 ghcr.io/m1k1o/neko/firefox:3.0.6=>m1k1o/neko/firefox:3.0.6
+ghcr.io/m1k1o/neko/xfce:3.0.6=>m1k1o/neko/xfce:3.0.6
 
 
 
