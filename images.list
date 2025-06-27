@@ -300,3 +300,5 @@
 #milvusdb/milvus:v2.6.0-rc1=>milvusdb/milvus:v2.6.0-rc1
 #ghcr.io/warjiang/inspector:sha256-d045bb13ca04c619a41c635a854c8cd7477d2bd1641b4c2059fb0e9efffb9c4d=>warjiang/inspector:sha256-d045bb13ca04c619a41c635a854c8cd7477d2bd1641b4c2059fb0e9efffb9c4d
 ghcr.io/warjiang/inspector:on-premises=>warjiang/inspector:on-premises
+
+
