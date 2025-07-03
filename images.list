@@ -285,6 +285,7 @@
 #mysql:8.2=>mysql:8.2
 #redis:latest=>redis:latest
 #ghcr.io/huolalatech/page-spy-web:v2.3.1=>huolalatech/page-spy-web:v2.3.1
+ghcr.io/huolalatech/page-spy-web:v2.3.3=>huolalatech/page-spy-web:v2.3.3
 #ghcr.io/huolalatech/page-spy-web:latest=>huolalatech/page-spy-web:latest
 #ghcr.io/astral-sh/uv:python3.11-bookworm=>astral-sh/uv:python3.11-bookworm
 #ghcr.io/astral-sh/uv:python3.12-bookworm=>astral-sh/uv:python3.12-bookworm
@@ -299,7 +300,7 @@
 #minio/minio:RELEASE.2023-03-20T20-16-18Z=>minio/minio:RELEASE.2023-03-20T20-16-18Z
 #milvusdb/milvus:v2.6.0-rc1=>milvusdb/milvus:v2.6.0-rc1
 #ghcr.io/warjiang/inspector:sha256-d045bb13ca04c619a41c635a854c8cd7477d2bd1641b4c2059fb0e9efffb9c4d=>warjiang/inspector:sha256-d045bb13ca04c619a41c635a854c8cd7477d2bd1641b4c2059fb0e9efffb9c4d
-ghcr.io/warjiang/inspector:on-premises=>warjiang/inspector:on-premises
+#ghcr.io/warjiang/inspector:on-premises=>warjiang/inspector:on-premises
 
 
 
