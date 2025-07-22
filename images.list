@@ -307,7 +307,7 @@
 quay.io/argoproj/argocd:v3.0.6=>argoproj/argocd:v3.0.6
 ghcr.io/dexidp/dex:v2.41.1=>dexidp/dex:v2.41.1
 redis:7.2.7-alpine=>redis:7.2.7-alpine
-
+karmada/karmada-dashboard-terminal:latest=>karmada/karmada-dashboard-terminal:latest
 
 
 
