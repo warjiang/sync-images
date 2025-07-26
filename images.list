@@ -304,10 +304,17 @@
 #warjiang/cloudflare-tunnel-operator:main=>warjiang/cloudflare-tunnel-operator:main
 #ghcr.io/ai-hermes/screenshot-to-code-frontend:latest=>ai-hermes/screenshot-to-code-frontend:latest
 #ghcr.io/ai-hermes/screenshot-to-code-backend:latest=>ai-hermes/screenshot-to-code-backend:latest
-quay.io/argoproj/argocd:v3.0.6=>argoproj/argocd:v3.0.6
-ghcr.io/dexidp/dex:v2.41.1=>dexidp/dex:v2.41.1
-redis:7.2.7-alpine=>redis:7.2.7-alpine
-karmada/karmada-dashboard-terminal:latest=>karmada/karmada-dashboard-terminal:latest
-
-
+#quay.io/argoproj/argocd:v3.0.6=>argoproj/argocd:v3.0.6
+#ghcr.io/dexidp/dex:v2.41.1=>dexidp/dex:v2.41.1
+#redis:7.2.7-alpine=>redis:7.2.7-alpine
+#karmada/karmada-dashboard-terminal:latest=>karmada/karmada-dashboard-terminal:latest
+karmada/karmada-controller-manager:v1.14.1=>karmada/karmada-controller-manager:v1.14.1
+karmada/karmada-scheduler:v1.14.1=>karmada/karmada-scheduler:v1.14.1
+karmada/karmada-descheduler:v1.14.1=>karmada/karmada-descheduler:v1.14.1
+karmada/karmada-webhook:v1.14.1=>karmada/karmada-webhook:v1.14.1
+karmada/karmada-scheduler-estimator:v1.14.1=>karmada/karmada-scheduler-estimator:v1.14.1
+karmada/karmada-aggregated-apiserver:v1.14.1=>karmada/karmada-aggregated-apiserver:v1.14.1
+karmada/karmada-search:v1.14.1=>karmada/karmada-search:v1.14.1
+karmada/karmada-metrics-adapter:v1.14.1=>karmada/karmada-metrics-adapter:v1.14.1
+karmada/karmada-agent:v1.14.1=>karmada/karmada-agent:v1.14.1
 
