@@ -317,4 +317,7 @@
 #karmada/karmada-search:v1.14.1=>karmada/karmada-search:v1.14.1
 #karmada/karmada-metrics-adapter:v1.14.1=>karmada/karmada-metrics-adapter:v1.14.1
 #karmada/karmada-agent:v1.14.1=>karmada/karmada-agent:v1.14.1
-warjiang/kubernetes-dashboard-api:latest=>warjiang/kubernetes-dashboard-api:latest
+#warjiang/kubernetes-dashboard-api:latest=>warjiang/kubernetes-dashboard-api:latest
+kindest/node:v1.31.2=>kindest/node:v1.31.2
+
+
