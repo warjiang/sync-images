@@ -52,6 +52,7 @@
 #argoprojlabs/argocd-image-updater:v0.10.3=>argoprojlabs/argocd-image-updater:v0.10.3
 #argoprojlabs/argocd-image-updater:v0.10.2=>argoprojlabs/argocd-image-updater:v0.10.2
 #argoprojlabs/argocd-image-updater:v0.10.1=>argoprojlabs/argocd-image-updater:v0.10.1
+quay.io/argoprojlabs/argocd-image-updater:v0.16.0=>argoprojlabs/argocd-image-updater:v0.16.0
 #jenkins/jenkins:2.504=>jenkins/jenkins:2.504
 #lyzhang1999/result:env=>lyzhang1999/result:env
 #lyzhang1999/vote:env=>lyzhang1999/vote:env
@@ -318,6 +319,6 @@
 #karmada/karmada-metrics-adapter:v1.14.1=>karmada/karmada-metrics-adapter:v1.14.1
 #karmada/karmada-agent:v1.14.1=>karmada/karmada-agent:v1.14.1
 #warjiang/kubernetes-dashboard-api:latest=>warjiang/kubernetes-dashboard-api:latest
-kindest/node:v1.31.2=>kindest/node:v1.31.2
+#kindest/node:v1.31.2=>kindest/node:v1.31.2
 
 
