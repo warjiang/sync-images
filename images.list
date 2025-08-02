@@ -320,14 +320,14 @@ quay.io/argoprojlabs/argocd-image-updater:v0.16.0=>argoprojlabs/argocd-image-upd
 #karmada/karmada-agent:v1.14.1=>karmada/karmada-agent:v1.14.1
 #warjiang/kubernetes-dashboard-api:latest=>warjiang/kubernetes-dashboard-api:latest
 #kindest/node:v1.31.2=>kindest/node:v1.31.2
-karmada/karmada-controller-manager:latest=>karmada/karmada-controller-manager:latest
-karmada/karmada-scheduler:latest=>karmada/karmada-scheduler:latest
-karmada/karmada-descheduler:latest=>karmada/karmada-descheduler:latest
-karmada/karmada-webhook:latest=>karmada/karmada-webhook:latest
-karmada/karmada-scheduler-estimator:latest=>karmada/karmada-scheduler-estimator:latest
-karmada/karmada-aggregated-apiserver:latest=>karmada/karmada-aggregated-apiserver:latest
-karmada/karmada-search:latest=>karmada/karmada-search:latest
-karmada/karmada-metrics-adapter:latest=>karmada/karmada-metrics-adapter:latest
-karmada/karmada-agent:latest=>karmada/karmada-agent:latest
-
+#karmada/karmada-controller-manager:latest=>karmada/karmada-controller-manager:latest
+#karmada/karmada-scheduler:latest=>karmada/karmada-scheduler:latest
+#karmada/karmada-descheduler:latest=>karmada/karmada-descheduler:latest
+#karmada/karmada-webhook:latest=>karmada/karmada-webhook:latest
+#karmada/karmada-scheduler-estimator:latest=>karmada/karmada-scheduler-estimator:latest
+#karmada/karmada-aggregated-apiserver:latest=>karmada/karmada-aggregated-apiserver:latest
+#karmada/karmada-search:latest=>karmada/karmada-search:latest
+#karmada/karmada-metrics-adapter:latest=>karmada/karmada-metrics-adapter:latest
+#karmada/karmada-agent:latest=>karmada/karmada-agent:latest
+registry.k8s.io/metrics-server/metrics-server:v0.6.3=>metrics-server/metrics-server:v0.6.3
 
