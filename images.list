@@ -329,5 +329,6 @@ quay.io/argoprojlabs/argocd-image-updater:v0.16.0=>argoprojlabs/argocd-image-upd
 #karmada/karmada-search:latest=>karmada/karmada-search:latest
 #karmada/karmada-metrics-adapter:latest=>karmada/karmada-metrics-adapter:latest
 #karmada/karmada-agent:latest=>karmada/karmada-agent:latest
-registry.k8s.io/metrics-server/metrics-server:v0.6.3=>metrics-server/metrics-server:v0.6.3
+#registry.k8s.io/metrics-server/metrics-server:v0.6.3=>metrics-server/metrics-server:v0.6.3
+ghcr.spotty.com.cn/open-webui/open-webui:main=>open-webui/open-webui:main
 
