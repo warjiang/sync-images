@@ -41,4 +41,5 @@ jobs:
               docker://${origin_image} \
               docker://${{ secrets.DEST_REGISTRY }}/${target_image}
             echo "Sync $line done"
+            sleep 1
           done
