@@ -13,6 +13,7 @@ jobs:
   sync:
     name: Sync images
     runs-on: ubuntu-latest
+    if: false
     steps:
       - name: 'Sync images'
         run: |
