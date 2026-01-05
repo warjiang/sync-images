@@ -12,9 +12,9 @@ permissions:
 jobs:
   sync:
     name: Sync images
-    # runs-on: ubuntu-latest
+    runs-on: ubuntu-latest
     # runs-on: johor
-    runs-on: [self-hosted, Linux, X64, johor]
+    # runs-on: [self-hosted, Linux, X64, johor]
     steps:
       - name: Checkout
         id: checkout
